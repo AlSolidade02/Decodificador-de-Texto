@@ -1,4 +1,5 @@
-Primeiro challenge do Oracle ONE BR
+Alura
+Primeiro challenge do Oracle ONE BR 
 
 Requisitos do challenge:
 
