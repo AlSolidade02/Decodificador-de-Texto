@@ -1,0 +1,102 @@
+*{
+    font-family: "Inter", sans-serif;
+    font-weight: 200px;
+    font-size: 100px;
+    line-height: 150%;
+}
+
+body{
+    background: #6281D0;
+    font-family: 'Inter', sans-serif;
+    color: black;
+}
+.main{
+    display: flex;
+    margin-left: 3400px;
+    margin-top: 10px;
+    margin-bottom: 300px;
+}
+.main h7{
+    font-size: 80px;
+    color: #1512C7;
+}
+.input-texto{
+    margin-top: 90px;
+    font-size: 100px;
+    border-radius: 100px;
+    background-color:lightgray;
+    color:black;
+
+
+}
+.mensagem{
+    position: flex;
+    margin-top: 90px;
+    margin-left: 30px;
+    background-color:lightgray;
+    color:black;
+    background-image: url("imagens/meninocomlupa.png");
+    background-repeat: no-repeat;
+    border-radius: 100px;
+}
+.botoes{
+    display:flex;
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin-left: 850px;
+}   
+.encriptar{
+    text-align: center;
+    width: 900px;
+    height: 200px;
+    background-color: #1512C7;
+    color: white;
+    border-radius: 40px;
+    text-shadow: 2px 2px whitesmoke;
+}
+.desencriptar{
+    text-align: center;
+    margin-left: 50px;
+    width: 900px;
+    height: 200px;
+    background-color: #1512C7;
+    color: white;
+    border-radius: 40px;
+    text-shadow: 2px 2px whitesmoke;
+    cursor: pointer;
+}
+.copia{
+    text-align: center;
+    margin-left: 50px;
+    width: 900px;
+    height: 200px;
+    background-color: #1512C7;
+    color: white;
+    border-radius: 40px;
+    text-shadow: 2px 2px whitesmoke;
+    cursor: pointer;
+
+}
+
+.informacao{
+    font-size: 70px;
+
+}
+.titulo{
+   display: flex;
+   justify-content: center;
+}
+
+.titulo figure img {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 100px;
+}
+
+.titulo h1 {
+    margin-top: 150px;
+    margin-left: 60px;
+    margin-bottom: 60px;
+    text-shadow: 2px 2px whitesmoke;
+}
